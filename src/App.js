@@ -4,15 +4,15 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function Index() {
-  return <h2>Home</h2>;
+  return <h2>Home v2</h2>;
 }
 
 function About() {
-  return <h2>About</h2>;
+  return <h2>About v2</h2>;
 }
 
 function Users() {
-  return <h2>Users</h2>;
+  return <h2>Users v2</h2>;
 }
 
 class App extends Component {
